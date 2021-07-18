@@ -4,7 +4,7 @@ The assignments done till now are:
 Simple python programs for image manipulation using OpenCV
 ## Week 2 : Digit Recognizer tensorflow model  
 Handwritten digit classifier achieving 97.1% accuracy in a [contest](https://www.kaggle.com/c/digit-recognizer)
-## Week 3 : Sketch Colourisation GAN  
+## Week 3 : Sketch Colourization GAN  
 GAN using the U-net model as the generator for coloring anime sketch images. 
 ## Week 4 : Image Upscaling model based on ESRGAN using tensorflow
 The final goal of the project. This program implements the [ESRGAN](https://arxiv.org/abs/1809.00219) model for image upscaling.  
