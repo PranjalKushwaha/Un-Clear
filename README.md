@@ -2,7 +2,8 @@ This is the repo of all the assignments done by me for the SoC project (Un)-Clea
 The assignments done till now are:  
 ## Week 1 : OpenCV and Python  
 Simple python programs for image manipulation using OpenCV
-Week 2 : Digit Recognizer tensorflow model  
-Week 3 : Sketch Colourisation GAN  
-Week 4 : Image Upscaling model based on ESRGAN using tensorflow
+## Week 2 : Digit Recognizer tensorflow model  
+
+## Week 3 : Sketch Colourisation GAN  
+## Week 4 : Image Upscaling model based on ESRGAN using tensorflow
  
