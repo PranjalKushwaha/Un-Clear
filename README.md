@@ -8,5 +8,5 @@ Handwritten digit classifier achieving 97.1% accuracy in a [contest](https://www
 GAN using the U-net model as the generator for coloring anime sketch images. 
 ## Week 4 : Image Upscaling model based on ESRGAN using tensorflow
 The final goal of the project. This program implements the [ESRGAN](https://arxiv.org/abs/1809.00219) model for image upscaling.  
-The model has been trained for 250 epochs on the [DIV2K dataset](https://data.vision.ee.ethz.ch/cvl/DIV2K/) for performing 4x upscaling.
+The model has been trained for 250 epochs on the [DIV2K dataset](https://data.vision.ee.ethz.ch/cvl/DIV2K/) for performing 4x upscaling.  
 The model weights can be downloaded from [here](https://www.kaggle.com/pranjalkushwaha/esrgan-final)(Tensorflow format)
